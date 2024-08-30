@@ -1,11 +1,5 @@
 # Achieve-Outlook-like-Swiping-with-MAUI-ListView-Control
 
-The .NET MAUI ListView control allows users swipe items to perform various actions, including deleting, adding, or editing data. By customizing the available features in ListView, you can create an inbox style similar to Outlook.
-
-Swipe views improve user engagement by enabling fast, gesture-driven actions when swiping items left, right, up, or down. They can be customized to assign different functions to each swipe direction, such as deleting, archiving, or marking as read, depending on the design. 
-
-The interface for these actions can be personalized with distinct colors, icons, and text, offering instant visual feedback through animations. Swipe views are frequently utilized in list-oriented applications like email clients, messaging platforms, and to-do lists.
-
 This sample demonstrates how to achieve Outlook-like Swiping in the MAUI ListView control within a .NET MAUI application. You'll also see the process of setting up an Outlook-style swipe feature, which allows users to archive and delete messages, as well as display pop-up notification for these actions, complete with an Undo option.
 
 ## Sample
